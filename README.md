@@ -23,7 +23,10 @@ If you wish to reproduce the corresponding PICS-ResNet or HCCNN on the HTRU Medl
 At the same time, you will need to install the corresponding PyTorch environment. If you wish to reproduce our feature selection process, please use the code under the 'feature_choose' file.
 
 ## Download papers and datasets
+
 Paper **Link to be added**<br>
+
+ue to the large size of some weights, experimental data, and inference results, we have placed the complete experimental content on Hugging Face storage. It can be accessed through the following link:
 1) Download the train and test dataset [train_and test dataset](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/train_test_data)<br>
 2) Download some of the best model weights mentioned in the paper. If you need any other model weights mentioned in the paper, please feel free to contact us. [some_best_result_mode](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/some_best_result_mode)<br>
 3) Download the experimental results records mentioned in the paper. [experiment_infer_result](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/experiment_infer_result)<br>
