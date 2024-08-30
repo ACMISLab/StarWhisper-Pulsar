@@ -7,7 +7,6 @@ The official repository of **"StarWhisper-Pulsar: A Novel Paradigm for Pulsar Ca
 - \[**August 2024**\] We have released the first version (v1) and are very excited to share our research and insights into Pulsar Candidate Classification!
 
 ## Usage
-### 🛠️ Environmental installation
 We strongly recommend using SWIFT from the modelscope community to reproduce or use our model, which runs in a Python environment. Please ensure that your Python version is higher than 3.8.
 
 - Install SWIFT using the pip command：
@@ -18,6 +17,10 @@ pip install 'ms-swift[all]' -U
 # only LLM
 pip install 'ms-swift[llm]' -U
 ```
+
+If you wish to reproduce the corresponding PICS-ResNet or HCCNN on the HTRU Medlat dataset, you may need to use the training and evaluation codes under the 'pics_ccnn_model' file. 
+
+At the same time, you will need to install the corresponding PyTorch environment. If you wish to reproduce our feature selection process, please use the code under the 'feature_choose' file.
 
 ## Download papers and datasets
 Paper **Link to be added**<br>
