@@ -6,7 +6,7 @@ The official repository of **"StarWhisper-Pulsar: A Novel Paradigm for Pulsar Ca
 ## 🆕 News
 - \[**August 2024**\] We have released the first version (v1) and are very excited to share our research and insights into Pulsar Candidate Classification!
 
-## Usage
+## 🚀 Usage
 We strongly recommend using SWIFT from the modelscope community to reproduce or use our model, which runs in a Python environment. Please ensure that your Python version is higher than 3.8.
 
 - Install SWIFT using the pip command：
@@ -34,6 +34,10 @@ ue to the large size of some weights, experimental data, and inference results, 
 ## 💡 Prompt
 Below are the prompts we use in our papers. You can also try your own designed prompts!
 ![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/prompt.png)
+
+##  📖 Experiment Results
+We fine-tuned all layers of the MLLM, optimizing both its textual and visual elements, to effectively address the multimodal demands of radio signal classification.  You can find detailed experimental information in the table below.
+![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/Experiment Results.png)
 
 ## 🤗 Citation
 If you find the code and testset are useful in your research, please consider citing
