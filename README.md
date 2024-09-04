@@ -48,7 +48,7 @@ If you find the code and testset are useful in your research, please consider ci
 ## 🤗 Contact us
 Fuyong Zhao: gs.fyzhao22@gzu.edu.cn
 
-Yuyang Li: liyuyang22@mails.ucas.ac.cn,
+Yuyang Li: liyuyang22@mails.ucas.ac.cn
 
 ## License
 The AstroBench dataset is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
