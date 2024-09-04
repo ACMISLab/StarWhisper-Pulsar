@@ -37,7 +37,8 @@ Below are the prompts we use in our papers. You can also try your own designed p
 
 ##  📖 Experiment Results
 We fine-tuned all layers of the MLLM, optimizing both its textual and visual elements, to effectively address the multimodal demands of radio signal classification.  You can find detailed experimental information in the table below.
-![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults.png)
+![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults1.png)
+![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults2.png)
 
 ## 🤗 Citation
 If you find the code and testset are useful in your research, please consider citing
