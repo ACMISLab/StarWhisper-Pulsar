@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/StarRipple.png" alt="StarWhisper-Pulsar Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> StarWhisper-Pulsar </h1>
 
-The official repository of **"StarWhisper-Pulsar: A Novel Paradigm for Pulsar Candidate Classification Based on Multimodal Large Language Models"**.
+The official repository of **"StarWhisper-Pulsar: A New Paradigm for Pulsar Candidate Classification Based on Multimodal Large Language Models"**.
 ![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/framework.png)
 
 ## 🆕 News
