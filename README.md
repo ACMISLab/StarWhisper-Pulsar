@@ -3,7 +3,6 @@
 This is the official repository of **"StarRipple"**.
 
 ## 🆕 News
-- \[**March 2025**\] We have released the second version 2.0, we have built additional tasks such as solar radio spectrum classification, radio galaxy morphology classification, and the first VQA fine-tuning dataset in the radio domain.
 - \[**December 2024**\] Our paper **《Pulsar Candidate Classification with Multimodal Large Language Models》** has been accepted to NeurIPS 2024 Workshop Foundation Models for Science: Progress, Opportunities, and Challenges (FM4Science).
 - \[**August 2024**\] We have released the first version 1.0 and are very excited to share our research and insights into Pulsar Candidate Classification!
 
@@ -34,25 +33,10 @@ Due to the large size of some weights, experimental data, and inference results,
 2) Download some of the best model weights mentioned in the paper. If you need any other model weights mentioned in the paper, please feel free to contact us. [some_best_result_mode](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/some_best_result_mode)<br>
 3) Download the experimental results records mentioned in the paper. [experiment_infer_result](https://huggingface.co/zfy1041264242/StarWhisper-Pulsar/tree/main/experiment_infer_result)<br>
 
-### V2 version
-Paper link：soon
-Overall framework:
-![image](https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/framework_v2.png)
-1) Download the train and test dataset [expand task dataset](https://pan.baidu.com/s/1KjD38mpLVhXfck9U4VslBA?pwd=q7n1)<br>
-2) Download some of the best model weights mentioned in the paper. If you need any other model weights mentioned in the paper, please feel free to contact us. [some_best_result_mode](https://pan.baidu.com/s/1R4q4mV8KPgBMp_Ileu5M1w?pwd=ghdr)<br>
-3) Download the experimental results records mentioned in the paper. [experiment_infer_result](https://pan.baidu.com/s/1R4q4mV8KPgBMp_Ileu5M1w?pwd=ghdr)<br>
-
-
 ## 💡 Prompt
 Below are the prompts we use in traditional task.
 
 <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/tra_instructions.png" alt="Traditional Task Instructions" style="width: 300px; height: auto; vertical-align: middle; margin-right: 5px;">
-
-Below are the prompts we use in VQA task.
-
-<img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/vqa_instructions.png" alt="VQA Instructions" style="width: 700px; height: auto; vertical-align: middle; margin-right: 5px;">
-
-Sure, you can also try your own designed prompts!
 
 ##  📖 Experiment Results
 We fine-tuned all layers of the MLLM, optimizing both its textual and visual elements, to effectively address the multimodal demands of radio signal classification.  You can find detailed experimental information in the table below.
@@ -63,15 +47,6 @@ We fine-tuned all layers of the MLLM, optimizing both its textual and visual ele
     </div>
     <div style="flex: 0 0 48%; margin-bottom: 20px;">
         <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults2.png" alt="ExperimentResults2" style="width: 80%; height: auto;">
-    </div>
-    <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults3.jpeg" alt="ExperimentResults3" style="width: 80%; height: auto;">
-    </div>
-    <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults4.jpeg" alt="ExperimentResults4" style="width: 80%; height: auto;">
-    </div>
-    <div style="flex: 0 0 48%; margin-bottom: 20px;">
-        <img src="https://github.com/ACMISLab/StarWhisper-Pulsar/blob/main/images/ExperimentResults5.jpeg" alt="ExperimentResults5" style="width: 80%; height: auto;">
     </div>
 </div>
 
